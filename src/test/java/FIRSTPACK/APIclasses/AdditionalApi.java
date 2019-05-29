@@ -8,7 +8,7 @@ package FIRSTPACK.APIclasses;
 
 public abstract class AdditionalApi {
 
-    public abstract WebDriver getWebDriver(); //асбтрактный метод для получения веб драйвера, он потом будет реализован в наследнике и уже ниже будет использоваться, например в методе Open
+    public abstract WebDriver getWebDriver(); //асбтрактный метод для получения веб драйвера, он потом будет реализован в наследнике и уже ниже будет использоваться
 
     public void open(String url) {
         getWebDriver().get(url);
