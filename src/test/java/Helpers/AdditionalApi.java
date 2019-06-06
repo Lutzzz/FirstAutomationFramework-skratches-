@@ -3,7 +3,10 @@ package Helpers;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+
 
 public abstract class AdditionalApi {
 
@@ -23,5 +26,11 @@ public abstract class AdditionalApi {
     public WebElement getByLoc(By locator) {
         return getWebDriver().findElement(locator);
     }
+
+    public void assertThat(ExpectedCondition<WebElement> condition) {
+        (new WebDriverWait(getWebDriver(), 7)).until(condition);
+    }
+
+
 
 }

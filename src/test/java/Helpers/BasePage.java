@@ -3,8 +3,9 @@ package Helpers;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-public class BasePage extends AdditionalApi {
 
+
+public class BasePage extends AdditionalApi {
 
     public BasePage(WebDriver driver) {
         this.driver = driver;

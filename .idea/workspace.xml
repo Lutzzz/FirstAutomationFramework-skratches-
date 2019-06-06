@@ -2,31 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc41d50b-1794-4328-9019-a44465badb04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Helpers/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Helpers/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Helpers/AdditionalApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Pages/BasePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/BaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests/FirstTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FIRSTPACK/APIclasses/AdditionalApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FIRSTPACK/BasePage/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FIRSTPACK/PageClasses/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FIRSTPACK/TestBase/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FIRSTPACK/TestClasses/FirstTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FIRSTPACK/APIclasses/AdditionalApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FIRSTPACK/BasePage/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FIRSTPACK/PageClasses/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FIRSTPACK/TestBase/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FIRSTPACK/TestClasses/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifactForLearning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Helpers/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Helpers/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Helpers/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Helpers/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Helpers/AdditionalApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Helpers/AdditionalApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/FirstTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,6 +29,26 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="868497848">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="315" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="315" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="artifactForLearning" />
   </component>
@@ -48,17 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="192">
               <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="160">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="128">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="352">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="29" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,12 +102,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,22 +116,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="144">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/artifactForLearning.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -130,14 +130,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="128">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,15 +172,15 @@
         <option value="$PROJECT_DIR$/src/test/java/FIRSTPACK/TestBase/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FIRSTPACK/PageClasses/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/FIRSTPACK/APIclasses/AdditionalApi.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Tests/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/Helpers/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Helpers/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" />
       </list>
     </option>
   </component>
@@ -205,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,17 +210,60 @@
               <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAutomationFramework-skratches-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationFramework-skratches-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558943800386" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MkbOnlineTest" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559807529919" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -265,7 +305,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.FirstTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.firstTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="artifactForLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FirstTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -305,8 +360,8 @@
     <list>
       <item itemvalue="Application.FirstTest" />
       <item itemvalue="JUnit.FirstTest.firstTest" />
-      <item itemvalue="JUnit.FirstTest.firstTest (1)" />
       <item itemvalue="JUnit.FirstTest" />
+      <item itemvalue="JUnit.FirstTest.firstTest (1)" />
     </list>
     <recent_temporary>
       <list>
@@ -346,41 +401,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_firstTest_(1) - 2019.04.17 at 16h 32m 17s.xml">
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 12m 41s.xml">
       <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest_(1) - 2019.04.24 at 11h 06m 07s.xml">
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 13m 04s.xml">
       <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest_(1) - 2019.04.24 at 11h 06m 57s.xml">
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 13m 54s.xml">
       <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.06.05 at 22h 34m 35s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 14m 33s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest - 2019.06.05 at 22h 36m 08s.xml">
-      <configuration name="FirstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 15m 09s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.06.05 at 22h 36m 48s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 16m 00s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.06.05 at 22h 37m 47s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 43m 31s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.06.05 at 22h 39m 25s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 43m 59s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.06.05 at 22h 53m 25s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 45m 14s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.06.05 at 22h 54m 50s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="FirstTest_firstTest_(1) - 2019.06.06 at 10h 46m 10s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.27864584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.28168264" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.27635783" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -390,7 +445,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5016129" side_tool="true" weight="0.27635783" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32910052" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32864866" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -398,8 +453,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32592592" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32910052" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32864866" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -408,6 +462,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,20 +490,9 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -517,20 +561,24 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/SecondPack/BaseTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/SecondPack/BasePage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/SecondPack/LoginPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BasePage.java">
+    <entry file="file://$PROJECT_DIR$/artifactForLearning.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="16">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/AdditionalApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="29" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -539,63 +587,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Helpers/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artifactForLearning.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

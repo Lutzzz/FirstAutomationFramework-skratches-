@@ -7,7 +7,6 @@ import org.openqa.selenium.WebDriver;
 
 public class BaseTest extends AdditionalApi {
 
-
     public WebDriver getWebDriver() {
         return driver;
     }

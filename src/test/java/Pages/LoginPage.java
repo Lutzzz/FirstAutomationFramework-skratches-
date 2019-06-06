@@ -1,38 +1,42 @@
 package Pages;
 
 import Helpers.BasePage;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
+
 
 public class LoginPage extends BasePage {
 
-    public static final String url = "https://online.mkb.ru/";
+    public static final String url = "http://10.81.2.187:8080/";
     private static final String pass = "Admin123";
     private static final String login = "direktor";
 
-    @FindBy(css = "#app > div.AppLoader__root > div > div.flex.mt-16 > form > div:nth-child(1) > div > div.vm-input__main > input")
+
+    @FindBy(xpath = "//input[@type='text']")
     private WebElement loginField;
-    @FindBy(css = "#app > div.AppLoader__root > div > div.flex.mt-16 > form > div:nth-child(2) > div > div.vm-input__main > input")
+    @FindBy(xpath = "//input[@type='password']")
     private WebElement passField;
     @FindBy(css = "[type=\"submit\"]")
     private WebElement submitButton;
 
 
-    public LoginPage(WebDriver driver){
+    public LoginPage(WebDriver driver) {
         super(driver);
     }
 
     public void doLogin() {
+        assertThat(ExpectedConditions.visibilityOf(loginField));
         loginField.sendKeys(login);
         passField.sendKeys(pass);
-        (new WebDriverWait(driver, 4)).until(ExpectedConditions.elementToBeClickable(submitButton));
-        submitButton.click();
+        assertThat(ExpectedConditions.elementToBeClickable(submitButton));
+        submitButton.sendKeys(Keys.ENTER);
     }
 
-    public void checkLogin () {
+    public void checkSuccess() {
         MainPage page = new MainPage(driver);
         page.checkSuccessfulLogin();
     }
