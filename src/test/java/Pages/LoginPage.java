@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
+import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 
 
 public class LoginPage extends BasePage {
@@ -28,12 +29,13 @@ public class LoginPage extends BasePage {
         super(driver);
     }
 
-    public void doLogin() {
-        assertThat(ExpectedConditions.visibilityOf(loginField));
+    public MainPage doLogin() {
+        assertThat(visibilityOf(loginField));
         loginField.sendKeys(login);
         passField.sendKeys(pass);
-        assertThat(ExpectedConditions.elementToBeClickable(submitButton));
+        assertThat(elementToBeClickable(submitButton));
         submitButton.sendKeys(Keys.ENTER);
+        return new MainPage(getWebDriver());
     }
 
     public void checkSuccess() {

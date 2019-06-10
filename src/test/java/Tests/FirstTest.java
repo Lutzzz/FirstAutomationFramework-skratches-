@@ -22,7 +22,8 @@ public class FirstTest extends BaseTest {
     @Test
     public void firstTest() {
         LoginPage page = new LoginPage(driver);
-        page.doLogin();
-        page.checkSuccess();
+        page.doLogin().
+                checkSuccessfulLogin();
+
     }
 }
